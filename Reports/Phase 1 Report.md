@@ -18,7 +18,8 @@ A.    Protein Identification
 
 Cyclin-dependent Kinase 1 (CDK1) has been found on the Human Protein Atlas as a marker of poor prognosis in renal cancer. The protein structure, identified by PDB ID **6GU6** (a CDK1/Cks2 complex complexed with Dinaciclib), was obtained from the RCSB Protein Data Bank.
 
-  
+![6GU6 Protein]  (https://github.com/Ameenah186/Drug-Development-and-ML/blob/main/Images/6GU6%20Protein.png)
+Fig 1: 6GU6 Protein
 
 B.    Active Sites of the Protein
 
@@ -36,7 +37,7 @@ E.    Results
 
 The 52 phytochemicals were docked with the 6GU6 protein and visualised using PyMOL; however, only 10 with the highest affinity were selected for this result.
 
-**1.**    
+   
 
 **1.**     **1\. Ginsenoside F2**
 
@@ -52,17 +53,17 @@ The 52 phytochemicals were docked with the 6GU6 protein and visualised using PyM
 
 **7.**    **Guanosine**
 
-**1.**     **8****.** **Menadione**
+**8.**     **Menadione**
 
-**1.**   **9.** **Indole-3-acetic**
+**9.**   **Indole-3-aceticacid**
 
-**acid**
+**10.**     **p-coumaric acid**
 
-**1.**     **p-coumaric acid**
 
 **Conclusion**
 
 Docking analysis demonstrated that Ginsenoside F2 and Ginsenoside Rg3 exhibit the highest binding affinities to the 6GU6 protein, particularly at its active sites. Ginsenoside F2 displayed the highest potential as a CDK1 inhibitor in renal cancer, with a binding affinity of -12.5 kcal/mol.
+
 
 **References**
 
