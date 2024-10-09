@@ -18,13 +18,18 @@ A.    Protein Identification
 
 Cyclin-dependent Kinase 1 (CDK1) has been found on the Human Protein Atlas as a marker of poor prognosis in renal cancer. The protein structure, identified by PDB ID **6GU6** (a CDK1/Cks2 complex complexed with Dinaciclib), was obtained from the RCSB Protein Data Bank.
 
-![Active Sites of 6GU6](https://github.com/user-attachments/assets/76dd5526-c42f-44a5-aba4-804fb51e6463)
+![6GU6 Protein](https://github.com/user-attachments/assets/a58c0c58-7ea5-4dbd-beed-c5977f96917e)
 
 **Fig 1: 6GU6 Protein**
+
 
 B.    Active Sites of the Protein
 
 The protein's active sites were identified using the CASTp computational software, revealing the sequence Methionine, Tyrosine, Threonine, Lysine, Isoleucine, Glycine, Glutamic acid, Arginine, Histidine, Glutamine, Leucine, Serine, Valine, Proline, Phenylanine, Aspartatic acid, and Alanine. Their visualization was conducted using the PyMol software.
+
+
+**Fig 2: Active Sites of the 6GU6Protein**
+
 
 C.    Phytochemical Library
 
