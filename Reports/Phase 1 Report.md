@@ -28,6 +28,8 @@ B.    Active Sites of the Protein
 The protein's active sites were identified using the CASTp computational software, revealing the sequence Methionine, Tyrosine, Threonine, Lysine, Isoleucine, Glycine, Glutamic acid, Arginine, Histidine, Glutamine, Leucine, Serine, Valine, Proline, Phenylanine, Aspartatic acid, and Alanine. Their visualization was conducted using the PyMol software.
 
 ![Active Sites of 6GU6](https://github.com/user-attachments/assets/8b4aa489-c0e1-4f25-be18-f091af5a7fc8)
+
+
 **Fig 2: Active Sites of the 6GU6 Protein**
 
 
@@ -47,42 +49,62 @@ The 52 phytochemicals were docked with the 6GU6 protein and visualised using PyM
 
 **1.**     
 ![Ginsenoside F2 Visualisation](https://github.com/user-attachments/assets/736dd9b0-6b48-44b0-aa63-61f1cfff3fc3)
+
+
 **Fig 3:  Ginsenoside F2**
 
 **2.**     
 ![Ginsenoside Rg3 Visualisation](https://github.com/user-attachments/assets/2e1b438a-9193-4f8a-89b4-050c612e68fe)
+
+
 **Fig 4: Ginsenoside Rg3**
 
 **3.**     
 ![Apigenin Vis](https://github.com/user-attachments/assets/b0dfdf92-dacd-4903-bcc7-e2d99174fd2d)
+
+
 **Fig 5: Apigenin**
 
 **4.**   
 ![Epicatechin Vis](https://github.com/user-attachments/assets/87942584-4aaa-43ba-8065-c4519bf8f545)
+
+
 **Fig 6:  Epicatechin**
 
 **5.**    
 ![Kaempferol Vis](https://github.com/user-attachments/assets/8873ef22-dd3e-419f-aa0c-45753a691615)
+
+
 **Fig 7: Kaempferol**
 
 **6.**   
 ![Quercitrin Vis](https://github.com/user-attachments/assets/e73ce5a1-4a8f-4829-a16c-6c2d2bcb4cd4)
+
+
 **Fig 8: Quercitrin**
 
 **7.**    
 ![Guanosine Vis](https://github.com/user-attachments/assets/9b75ab2b-97f9-4313-817b-191055c45d2c)
+
+
 **Fig 9: Guanosine**
 
 **8.**  
 ![Menadione Vis](https://github.com/user-attachments/assets/c81c3c62-5125-44be-a997-743fba14ebaa)
+
+
 **Fig 10:  Menadione**
 
 **9.**   
 ![Indole-3-acetic acid Vis](https://github.com/user-attachments/assets/7d15df94-050d-4d65-9478-7eb686d4acde)
+
+
 **Fig 11: Indole-3-acetic acid**
 
 **10.**     
 ![p-coumaric acid vis](https://github.com/user-attachments/assets/0cc3e16e-02c1-4525-a1d2-f02060878358)
+
+
 **Fig 12: p-coumaric acid**
 
 **Conclusion**
