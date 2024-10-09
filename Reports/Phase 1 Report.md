@@ -50,24 +50,29 @@ The 52 phytochemicals were docked with the 6GU6 protein and visualised using PyM
     
 ![Ginsenoside F2 Visualisation](https://github.com/user-attachments/assets/736dd9b0-6b48-44b0-aa63-61f1cfff3fc3)
 
+![Ginsenoside F2 affinity results](https://github.com/user-attachments/assets/f0127673-46fe-4584-bdad-fe9d5c2faf50)
+
 
 **Fig 3:  Ginsenoside F2**
 
     
 ![Ginsenoside Rg3 Visualisation](https://github.com/user-attachments/assets/2e1b438a-9193-4f8a-89b4-050c612e68fe)
 
+![Ginsenoside F2 affinity results](https://github.com/user-attachments/assets/f0127673-46fe-4584-bdad-fe9d5c2faf50)
 
 **Fig 4: Ginsenoside Rg3**
 
   
 ![Apigenin Vis](https://github.com/user-attachments/assets/b0dfdf92-dacd-4903-bcc7-e2d99174fd2d)
 
+![Apigenin Affinity](https://github.com/user-attachments/assets/604089a7-20f9-4ff9-b72c-969bf18fa50e)
 
 **Fig 5: Apigenin**
 
  
 ![Epicatechin Vis](https://github.com/user-attachments/assets/87942584-4aaa-43ba-8065-c4519bf8f545)
 
+![Epicatechin Affinity](https://github.com/user-attachments/assets/d0692be4-905e-441d-bb60-6f8fd25fba4c)
 
 **Fig 6:  Epicatechin**
 
