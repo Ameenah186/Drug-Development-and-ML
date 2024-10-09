@@ -24,15 +24,15 @@ B.    Active Sites of the Protein
 
 The protein's active sites were identified using the CASTp computational software, revealing the sequence Methionine, Tyrosine, Threonine, Lysine, Isoleucine, Glycine, Glutamic acid, Arginine, Histidine, Glutamine, Leucine, Serine, Valine, Proline, Phenylanine, Aspartatic acid, and Alanine. Their visualization was conducted using the PyMol software.
 
-A.    Phytochemical Library
+C.    Phytochemical Library
 
 A total of 52 phytochemicals from the plant were identified through published literature, and their 2D structures were obtained in SDF format from the PubChem library. The structures were subsequently converted into 3D formats (PDB) utilizing the Open Babel website.
 
-B.    Docking
+D.    Docking
 
 MGL Tools, Autodock 4, and Autodock Vina were acquired and used for the molecular docking of the protein and phytochemicals. Autodock 4 was used to prepare and convert the protein from PDB to PDBQT format by removing the Dinaciclib ligand (1QK) and water molecules, checking and repairing missing atoms, and adding polar hydrogens and Kollman charges. The three-dimensional structures of the phytochemicals were generated and converted into PDBQT format. A grid box was generated via Autodock 4. Autodock Vina was then used for docking the protein with the phytochemicals, using an energy range of 4 and an exhaustiveness of 8. The docking findings yielded 9 binding affinities for each phytochemical, with the greatest affinity recorded first. The result and protein conformation were visualised via PyMOL.
 
-C.    Results
+E.    Results
 
 The 52 phytochemicals were docked with the 6GU6 protein and visualised using PyMOL; however, only 10 with the highest affinity were selected for this result.
 
@@ -64,7 +64,7 @@ The 52 phytochemicals were docked with the 6GU6 protein and visualised using PyM
 
 Docking analysis demonstrated that Ginsenoside F2 and Ginsenoside Rg3 exhibit the highest binding affinities to the 6GU6 protein, particularly at its active sites. Ginsenoside F2 displayed the highest potential as a CDK1 inhibitor in renal cancer, with a binding affinity of -12.5 kcal/mol.
 
-**REFERENCES**
+**References**
 
 1.     Chen, J., Yuan, Y., Ran, X., Guo, N., & Dou, D. (2018). Metabolomics analysis based on a UPLC-Q-TOF-MS metabolomics approach to compare Lin-Xia-Shan-Shen and garden ginseng. RSC Advances, 8(53), 30616-30623.
 
