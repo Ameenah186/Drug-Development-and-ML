@@ -79,11 +79,14 @@ The 52 phytochemicals were docked with the 6GU6 protein and visualised using PyM
     
 ![Kaempferol Vis](https://github.com/user-attachments/assets/8873ef22-dd3e-419f-aa0c-45753a691615)
 
+![Kaempferol Aff](https://github.com/user-attachments/assets/ac106ac5-2e3b-4878-84f6-5ff95d8ecfe9)
 
 **Fig 7: Kaempferol**
 
   
 ![Quercitrin Vis](https://github.com/user-attachments/assets/e73ce5a1-4a8f-4829-a16c-6c2d2bcb4cd4)
+
+![Quercitrin Aff](https://github.com/user-attachments/assets/6acf11d2-10d9-4f88-b0f8-f4f635b47fc2)
 
 
 **Fig 8: Quercitrin**
@@ -91,17 +94,21 @@ The 52 phytochemicals were docked with the 6GU6 protein and visualised using PyM
    
 ![Guanosine Vis](https://github.com/user-attachments/assets/9b75ab2b-97f9-4313-817b-191055c45d2c)
 
+![Guanosine Aff](https://github.com/user-attachments/assets/4410b0ce-2b5b-4f5a-a1a1-e8b9d4e420d5)
 
 **Fig 9: Guanosine**
 
 
 ![Menadione Vis](https://github.com/user-attachments/assets/c81c3c62-5125-44be-a997-743fba14ebaa)
 
+![Menadione Aff](https://github.com/user-attachments/assets/e65f88f7-5013-42c3-ae55-b526d226507c)
 
 **Fig 10:  Menadione**
 
 
 ![Indole-3-acetic acid Vis](https://github.com/user-attachments/assets/7d15df94-050d-4d65-9478-7eb686d4acde)
+
+![Indole-3-acetic acid Aff](https://github.com/user-attachments/assets/62fd07db-f806-4452-8b97-cd10ed44f9e3)
 
 
 **Fig 11: Indole-3-acetic acid**
@@ -109,6 +116,7 @@ The 52 phytochemicals were docked with the 6GU6 protein and visualised using PyM
     
 ![p-coumaric acid vis](https://github.com/user-attachments/assets/0cc3e16e-02c1-4525-a1d2-f02060878358)
 
+![p-coumaric acid aff](https://github.com/user-attachments/assets/086240e9-0398-4d42-9d13-06375b969d24)
 
 **Fig 12: p-coumaric acid**
 
